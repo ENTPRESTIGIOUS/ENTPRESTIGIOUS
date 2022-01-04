@@ -15,3 +15,7 @@
 <a href="https://github.com/NOTORIEX-LEGACY/GitHub_Auto_Add_Commit_And_Push">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NOTORIEX-LEGACY&repo=GitHub_Auto_Add_Commit_And_Push&theme=monokai" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=monokai" />
+</a>
