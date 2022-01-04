@@ -2,7 +2,7 @@
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entprestigious&langs_count=8&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>Pinned</p>
+<h4>Exclusive Pinned Repositories:</h4>
 
 <a href="https://github.com/NOTORIEX-LEGACY/TMForever_Winter_2021_Tracks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NOTORIEX-LEGACY&repo=TMForever_Winter_2021_Tracks&theme=monokai" />
