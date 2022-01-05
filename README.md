@@ -4,6 +4,10 @@
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=entprestigious&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
+### Connections:
+
+<a href="https://www.youtube.com/c/ELITENOTORIOUSTHEPRESTIGIOUSOFFICIAL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="entprestigious" height="30" width="40" /></a>
+
 ---
 <h3>Exclusive Pinned Repositories:</h3>
 
