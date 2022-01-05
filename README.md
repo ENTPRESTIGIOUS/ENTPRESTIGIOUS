@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Welcome to my Profile!</h1>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=entprestigious&color=brightgreen" alt="watching_count" />
