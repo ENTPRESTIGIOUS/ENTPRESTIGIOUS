@@ -37,3 +37,5 @@
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=monokai" />
 </a>
+
+## Personal Pinned Repositories BELOW: :arrow_down: :arrow_down: :arrow_down:
