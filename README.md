@@ -7,7 +7,7 @@
 ### Connections:
 
 <p align = "left">
-<a href="https://www.youtube.com/c/ELITENOTORIOUSTHEPRESTIGIOUSOFFICIAL/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" alt="entprestigious" height="32" width="32" /></a>
+<a href="https://www.youtube.com/c/ELITENOTORIOUSTHEPRESTIGIOUSOFFICIAL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="entprestigious" height="32" width="32" /></a>
 </p>
 
 ---
