@@ -76,5 +76,17 @@ https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblne
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreMiD&repo=Presences&theme=monokai" />
 </a>
 
+<a href="https://github.com/bigbang1112-cz/clip-checkpoint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbang1112-cz&repo=clip-checkpoint&theme=monokai" />
+</a>
+
+<a href="https://github.com/bigbang1112-cz/clip-input">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbang1112-cz&repo=clip-input&theme=monokai" />
+</a>
+
+<a href="https://github.com/jsquared21/Intro-to-Java-Programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jsquared21&repo=Intro-to-Java-Programming&theme=monokai" />
+</a>
+
 ---
 # Personal Pinned Repositories BELOW: :arrow_down: :arrow_down: :arrow_down:
