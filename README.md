@@ -7,7 +7,9 @@
 ### Connections:
 
 <p align = "left">
-<a href="https://www.youtube.com/c/ELITENOTORIOUSTHEPRESTIGIOUSOFFICIAL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="entprestigious" height="32" width="32" /></a>
+<a href="https://www.youtube.com/c/ELITENOTORIOUSTHEPRESTIGIOUSOFFICIAL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Main YouTube Channel" height="32" width="32" /></a>
+<a href="https://www.youtube.com/channel/UC1EYJD6fkQXE-9l4iIvqJzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TrackMania YouTube Channel" height="32" width="32" /></a>
+<a href="https://www.youtube.com/channel/UCKX5I5zkKwGhvqwE-YNuVsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Willy GTRX2 Chiller" height="32" width="32" /></a>
 </p>
 
 ---
