@@ -23,23 +23,23 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 ---
-<h3>External Links & Tools</h3>
-# View GitHub API
+<h1>External Links & Tools</h1>
+### View GitHub API
 https://api.github.com/repos/{:owner}/{:repository}
 
-# Size of Repo:
+### Size of Repo:
 https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci?hl=en
 <strong>WARNING! Commits can also expand file size!</strong>
 
-# Octotree:
+### Octotree:
 <p>https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en</p>
 <b>It is used for navigating through a GitHub repository easier. It has the format of file explorer where you can click the little arrows to open folders and view all of the files within the folder.</b>
 
-# Max Repo Size
+### Max Repo Size
 <p><strong>Presumably 100 GB</strong></p>
 <p><strong>UPDATE: https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github</strong></p>
 
-# Cloud Coding
+### Cloud Coding
 <ol>
     <li><strong>Gitpod: https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki?hl=en</strong></li>
 </ol>
