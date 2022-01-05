@@ -10,6 +10,8 @@
 <a href="https://www.youtube.com/c/ELITENOTORIOUSTHEPRESTIGIOUSOFFICIAL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Main YouTube Channel" height="32" width="32" /></a>
 <a href="https://www.youtube.com/channel/UC1EYJD6fkQXE-9l4iIvqJzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TrackMania YouTube Channel" height="32" width="32" /></a>
 <a href="https://www.youtube.com/channel/UCKX5I5zkKwGhvqwE-YNuVsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Willy GTRX2 Chiller" height="32" width="32" /></a>
+<a href="https://www.twitch.tv/entprestigiousofficial" target="blank"><img align="center" src="https://discord.com/assets/ca71e0b8818221eea1deebbaf8dc6518.svg" alt="Twitch" height="32" width="32" /></a>
+<a href="https://steamcommunity.com/id/entprestigious/" target="blank"><img align="center" src="https://discord.com/assets/d897626dfa2016ea3ad0af935acb6070.svg" alt="Steam" height="32" width="32" /></a>
 </p>
 
 ---
