@@ -4,6 +4,7 @@
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=entprestigious&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 <h3>Exclusive Pinned Repositories:</h3>
 
 <a href="https://github.com/NOTORIEX-LEGACY/TMForever_Winter_2021_Tracks">
