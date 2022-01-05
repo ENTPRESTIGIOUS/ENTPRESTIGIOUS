@@ -45,5 +45,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=monokai" />
 </a>
 
+<a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=durgeshsamariya&repo=awesome-github-profile-readme-templates&theme=monokai" />
+</a>
+
 ---
 ## Personal Pinned Repositories BELOW: :arrow_down: :arrow_down: :arrow_down:
