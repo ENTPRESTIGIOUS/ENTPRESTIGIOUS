@@ -24,6 +24,7 @@
 
 ---
 <h1>External Links & Tools</h1>
+
 ### View GitHub API
 https://api.github.com/repos/{:owner}/{:repository}
 
