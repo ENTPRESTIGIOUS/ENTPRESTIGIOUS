@@ -61,31 +61,31 @@ https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblne
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=monokai&show_owner=true" />
 </a>
 
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahuldkjain&repo=github-profile-readme-generator&theme=monokai&show_owner=true" />
 </a>
 
 <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=durgeshsamariya&repo=awesome-github-profile-readme-templates&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=durgeshsamariya&repo=awesome-github-profile-readme-templates&theme=monokai&show_owner=true" />
 </a>
 
 <a href="https://github.com/PreMiD/Presences">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreMiD&repo=Presences&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreMiD&repo=Presences&theme=monokai&show_owner=true" />
 </a>
 
 <a href="https://github.com/bigbang1112-cz/clip-checkpoint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbang1112-cz&repo=clip-checkpoint&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbang1112-cz&repo=clip-checkpoint&theme=monokai&show_owner=true" />
 </a>
 
 <a href="https://github.com/bigbang1112-cz/clip-input">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbang1112-cz&repo=clip-input&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbang1112-cz&repo=clip-input&theme=monokai&show_owner=true" />
 </a>
 
 <a href="https://github.com/jsquared21/Intro-to-Java-Programming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jsquared21&repo=Intro-to-Java-Programming&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jsquared21&repo=Intro-to-Java-Programming&theme=monokai&show_owner=true" />
 </a>
 
 <a href="https://github.com/NOTORIEX-LEGACY/TMForever_New_Year_2k21-22_Tracks">
