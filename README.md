@@ -92,5 +92,9 @@ https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblne
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NOTORIEX-LEGACY&repo=TMForever_NTRX_New_Year_2k21-22_Tracks&theme=monokai" />
 </a>
 
+<a href="https://github.com/NOTORIEX-LEGACY/TMForever_NTRX_Early_Winter_2022_Tracks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NOTORIEX-LEGACY&repo=TMForever_NTRX_Early_Winter_2022_Tracks&theme=monokai" />
+</a>
+
 ---
 # Personal Pinned Repositories BELOW: :arrow_down: :arrow_down: :arrow_down:
