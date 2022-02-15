@@ -6,6 +6,8 @@
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=entprestigious&theme=monokai&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=entprestigious" alt="Streak stats card" />
+
 ---
 # Connections:
 
