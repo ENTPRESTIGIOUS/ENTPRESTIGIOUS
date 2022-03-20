@@ -2,7 +2,7 @@
 
 # Organizations:
 
-![NOTORIEX LEGACY](https://img.shields.io/badge/NOTORIEX--LEGACY-Owner-red)
+[![NOTORIEX LEGACY](https://img.shields.io/badge/NOTORIEX--LEGACY-Owner-red)](https://github.com/NOTORIEX-LEGACY)
 
 ---
 # Statistics:
