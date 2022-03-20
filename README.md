@@ -7,6 +7,8 @@
 ---
 # Statistics:
 
+[![Date Joined Github](https://img.shields.io/badge/Date%20Joined%3A-December%203%202018-brightgreen)](https://github.com/ENTPRESTIGIOUS)
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=entprestigious&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entprestigious&langs_count=8&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
