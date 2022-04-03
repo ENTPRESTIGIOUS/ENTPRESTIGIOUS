@@ -9,7 +9,7 @@
 
 [![Date Joined Github](https://img.shields.io/badge/Date%20Joined%20GitHub%3A-December%203%202018-brightgreen)](https://github.com/ENTPRESTIGIOUS)
 <br>
-[![Date Joined GitLab](https://img.shields.io/badge/Date%20Joined%20GitLab-April%202%202022-red)](https://gitlab.com/ENTPRESTIGIOUS)
+[![Date Joined GitLab](https://img.shields.io/badge/Date%20Joined%20GitLab%3A-April%202%202022-red)](https://gitlab.com/ENTPRESTIGIOUS)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=entprestigious&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
