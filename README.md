@@ -13,7 +13,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=entprestigious&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entprestigious&langs_count=8&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entprestigious&langs_count=8&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats) --->
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=entprestigious&theme=monokai&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
