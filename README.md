@@ -52,7 +52,7 @@
 ### View GitHub API
 https://api.github.com/repos/{:owner}/{:repository}
 
-### Size of Repo:
+### [DEPRECATED] Size of Repo:
 https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci?hl=en
 <strong>WARNING! Commits can also expand file size!</strong>
 
@@ -71,18 +71,6 @@ https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblne
 
 ---
 <h1>Exclusive Pinned Repositories:</h1>
-
-<a href="https://github.com/NOTORIEX-LEGACY/TMForever_Winter_2021_Tracks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NOTORIEX-LEGACY&repo=TMForever_Winter_2021_Tracks&theme=monokai" />
-</a>
-
-<a href="https://github.com/NOTORIEX-LEGACY/Exclusive-Discord-Backgrounds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NOTORIEX-LEGACY&repo=Exclusive-Discord-Backgrounds&theme=monokai" />
-</a>
-
-<a href="https://github.com/NOTORIEX-LEGACY/GitHub_Auto_Add_Commit_And_Push">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NOTORIEX-LEGACY&repo=GitHub_Auto_Add_Commit_And_Push&theme=monokai" />
-</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=monokai&show_owner=true" />
@@ -112,20 +100,8 @@ https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblne
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jsquared21&repo=Intro-to-Java-Programming&theme=monokai&show_owner=true" />
 </a>
 
-<a href="https://github.com/NOTORIEX-LEGACY/TMForever_New_Year_2k21-22_Tracks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NOTORIEX-LEGACY&repo=TMForever_NTRX_New_Year_2k21-22_Tracks&theme=monokai" />
-</a>
-
-<a href="https://github.com/NOTORIEX-LEGACY/TMForever_NTRX_Early_Winter_2022_Tracks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NOTORIEX-LEGACY&repo=TMForever_NTRX_Early_Winter_2022_Tracks&theme=monokai" />
-</a>
-
 <a href="https://github.com/ArkadySK/GbxMapBrowser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkadySK&repo=GbxMapBrowser&theme=monokai&show_owner=true" />
-</a>
-
-<a href="https://github.com/NOTORIEX-LEGACY/Trackmania-Hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NOTORIEX-LEGACY&repo=Trackmania-Hub&theme=monokai" />
 </a>
 
 ---
